@@ -4,9 +4,9 @@ We are a company that makes mods, modpacks, plugins, textures and other things f
 
 ## Our Team 👤
 
-inteleonyx - The CEO, modpack developer and mod developer
-laura. - Plugin Developer
-evilnaraku - Server and Plugin Developer
-titammods - Modpack Developer
-raiden0931 - Artist
-vexypt - Mod Developer
+- inteleonyx - The CEO, modpack developer and mod developer
+- laura. - Plugin Developer
+- evilnaraku - Server and Plugin Developer
+- titammods - Modpack Developer
+- raiden0931 - Artist
+- vexypt - Mod Developer
